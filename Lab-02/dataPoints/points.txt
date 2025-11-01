@@ -1,0 +1,7 @@
+/usr/local/bin/node
+/Users/captainivo/Desktop/Node/Lab-02/main.js
+10
+2
+3
+4
+The distance between your two points: (10, 2), (3, 4) is 7.280109889280518
